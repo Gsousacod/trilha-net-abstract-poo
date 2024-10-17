@@ -1,0 +1,15 @@
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\trilha-net-poo-desafio-main.csproj.AssemblyReference.cache
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\trilha-net-poo-desafio-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\trilha-net-poo-desafio-main.AssemblyInfoInputs.cache
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\trilha-net-poo-desafio-main.AssemblyInfo.cs
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\trilha-net-poo-desafio-main.csproj.CoreCompileInputs.cache
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\trilha-net-poo-desafio-main.exe
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\trilha-net-poo-desafio-main.deps.json
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\trilha-net-poo-desafio-main.runtimeconfig.json
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\trilha-net-poo-desafio-main.dll
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\trilha-net-poo-desafio-main.pdb
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\trilha-net-poo-desafio-main.dll
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\refint\trilha-net-poo-desafio-main.dll
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\trilha-net-poo-desafio-main.pdb
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\trilha-net-poo-desafio-main.genruntimeconfig.cache
+C:\Users\m17248635\Downloads\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\ref\trilha-net-poo-desafio-main.dll
